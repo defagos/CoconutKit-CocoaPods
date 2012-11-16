@@ -1,4 +1,3 @@
-CoconutKit-CocoaPods
-====================
+**Do not watch, clone or fork this repository**
 
-Repository containing CoconutKit source code for use with CocoaPods. Do not watch, fork or clone!
+This repository contains tagged sources for [CoconutKit](https://github.com/defagos/CoconutKit) which are only meant for use with [CocoaPods](https://github.com/CocoaPods/CocoaPods).
